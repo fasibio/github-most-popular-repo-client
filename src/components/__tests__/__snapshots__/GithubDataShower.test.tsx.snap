@@ -1,0 +1,221 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`tests githubdatashower render snapshot => data are loaded and have no favorite 1`] = `
+<div>
+  <div
+    class="StyledGrommet-sc-19lkkz7-0 ioQEen"
+  >
+    <div
+      class="StyledBox-sc-13pk1d4-0 cfuxjG"
+    >
+      <h1
+        class="StyledHeading-sc-1rdh4aw-0 bdgJOh"
+      >
+        githubdatashower.title
+      </h1>
+      <div
+        class="StyledBox-sc-13pk1d4-0 hUSFEE StyledTabs-sc-a4fwxl-2 uzbFk"
+        role="tablist"
+      >
+        <div
+          class="StyledBox-sc-13pk1d4-0 jKAhip"
+        >
+          <div
+            class="StyledBox-sc-13pk1d4-0 exoCoy StyledTabs__StyledTabsHeader-sc-a4fwxl-0 cUuna-D"
+          >
+            <button
+              aria-expanded="true"
+              aria-selected="true"
+              class="StyledButton-sc-323bzc-0 hIPuDF"
+              role="tab"
+              type="button"
+            >
+              <div
+                class="StyledBox-sc-13pk1d4-0 jZDVC StyledTab-sc-1nnwnsb-0 jvjGeN"
+              >
+                <span
+                  class="StyledText-sc-1sadyjn-0 bouNPv"
+                >
+                  githubdatashower.tabs.0.title
+                </span>
+              </div>
+            </button>
+            <button
+              aria-expanded="false"
+              aria-selected="false"
+              class="StyledButton-sc-323bzc-0 hIPuDF"
+              role="tab"
+              type="button"
+            >
+              <div
+                class="StyledBox-sc-13pk1d4-0 etEeAW StyledTab-sc-1nnwnsb-0 jvjGeN"
+              >
+                <span
+                  class="StyledText-sc-1sadyjn-0 hnjXtp"
+                >
+                  githubdatashower.tabs.1.title (0)
+                </span>
+              </div>
+            </button>
+          </div>
+        </div>
+        <div
+          aria-label="githubdatashower.tabs.0.title Tab Contents"
+          class="StyledTabs__StyledTabPanel-sc-a4fwxl-1 fvSfiA"
+          role="tabpanel"
+        >
+          <ul
+            class="List__StyledList-sc-130gdqg-0 gzRAfE sc-bcXHqe"
+            role="list"
+          >
+            <li
+              class="StyledBox-sc-13pk1d4-0 dtdxsN List__StyledItem-sc-130gdqg-1 cSDWGA"
+            >
+              <h1
+                data-testid="GithubRepo"
+                repo="[object Object]"
+              >
+                GithubRepo
+              </h1>
+            </li>
+            <li
+              class="StyledBox-sc-13pk1d4-0 dtdxsN List__StyledItem-sc-130gdqg-1 cSDWGA"
+            >
+              <h1
+                data-testid="GithubRepo"
+                repo="[object Object]"
+              >
+                GithubRepo
+              </h1>
+            </li>
+          </ul>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`tests githubdatashower render snapshot => data are loaded and have one favorite 1`] = `
+<div>
+  <div
+    class="StyledGrommet-sc-19lkkz7-0 ioQEen"
+  >
+    <div
+      class="StyledBox-sc-13pk1d4-0 cfuxjG"
+    >
+      <h1
+        class="StyledHeading-sc-1rdh4aw-0 bdgJOh"
+      >
+        githubdatashower.title
+      </h1>
+      <div
+        class="StyledBox-sc-13pk1d4-0 hUSFEE StyledTabs-sc-a4fwxl-2 uzbFk"
+        role="tablist"
+      >
+        <div
+          class="StyledBox-sc-13pk1d4-0 jKAhip"
+        >
+          <div
+            class="StyledBox-sc-13pk1d4-0 exoCoy StyledTabs__StyledTabsHeader-sc-a4fwxl-0 cUuna-D"
+          >
+            <button
+              aria-expanded="true"
+              aria-selected="true"
+              class="StyledButton-sc-323bzc-0 hIPuDF"
+              role="tab"
+              type="button"
+            >
+              <div
+                class="StyledBox-sc-13pk1d4-0 jZDVC StyledTab-sc-1nnwnsb-0 jvjGeN"
+              >
+                <span
+                  class="StyledText-sc-1sadyjn-0 bouNPv"
+                >
+                  githubdatashower.tabs.0.title
+                </span>
+              </div>
+            </button>
+            <button
+              aria-expanded="false"
+              aria-selected="false"
+              class="StyledButton-sc-323bzc-0 hIPuDF"
+              role="tab"
+              type="button"
+            >
+              <div
+                class="StyledBox-sc-13pk1d4-0 etEeAW StyledTab-sc-1nnwnsb-0 jvjGeN"
+              >
+                <span
+                  class="StyledText-sc-1sadyjn-0 hnjXtp"
+                >
+                  githubdatashower.tabs.1.title (1)
+                </span>
+              </div>
+            </button>
+          </div>
+        </div>
+        <div
+          aria-label="githubdatashower.tabs.0.title Tab Contents"
+          class="StyledTabs__StyledTabPanel-sc-a4fwxl-1 fvSfiA"
+          role="tabpanel"
+        >
+          <ul
+            class="List__StyledList-sc-130gdqg-0 gzRAfE sc-bcXHqe"
+            role="list"
+          >
+            <li
+              class="StyledBox-sc-13pk1d4-0 dtdxsN List__StyledItem-sc-130gdqg-1 cSDWGA"
+            >
+              <h1
+                data-testid="GithubRepo"
+                repo="[object Object]"
+              >
+                GithubRepo
+              </h1>
+            </li>
+            <li
+              class="StyledBox-sc-13pk1d4-0 dtdxsN List__StyledItem-sc-130gdqg-1 cSDWGA"
+            >
+              <h1
+                data-testid="GithubRepo"
+                repo="[object Object]"
+              >
+                GithubRepo
+              </h1>
+            </li>
+          </ul>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`tests githubdatashower render snapshot => data not downloaded yet show loading screen 1`] = `
+<div>
+  <div
+    class="StyledGrommet-sc-19lkkz7-0 ioQEen"
+  >
+    <div
+      class="StyledBox-sc-13pk1d4-0 hdSiWx"
+    >
+      <div
+        class="StyledBox-sc-13pk1d4-0 Tvcri"
+      />
+      <div
+        class="StyledBox__StyledBoxGap-sc-13pk1d4-1 ilMzAg"
+      />
+      <span
+        class="StyledText-sc-1sadyjn-0 fFQlho"
+      >
+        githubdatashower.loading
+      </span>
+      <div
+        class="StyledBox__StyledBoxGap-sc-13pk1d4-1 ilMzAg"
+      />
+      ;
+    </div>
+  </div>
+</div>
+`;

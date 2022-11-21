@@ -1,0 +1,541 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`tests githubrepo card component tests render componen ==> fullsetTest 1`] = `
+<div>
+  <div
+    class="StyledGrommet-sc-19lkkz7-0 ioQEen"
+  >
+    <div
+      class="StyledBox-sc-13pk1d4-0 hECOWc"
+    >
+      <header
+        class="StyledBox-sc-13pk1d4-0 cUsmfa"
+      >
+        <div
+          class="StyledBox-sc-13pk1d4-0 hyJwyv"
+        >
+          <div
+            class="StyledBox-sc-13pk1d4-0 euWtCA"
+          >
+            <svg
+              aria-label="Book"
+              class="StyledIcon-sc-ofa7kd-0 jQvEgu"
+              viewBox="0 0 24 24"
+            >
+              <path
+                d="M10 1v10l3-2 3 2V1M5.5 18a2.5 2.5 0 1 0 0 5H22M3 20.5v-17A2.5 2.5 0 0 1 5.5 1H21v17.007H5.492M20.5 18a2.5 2.5 0 1 0 0 5"
+                fill="none"
+                stroke="#000"
+                stroke-width="2"
+              />
+            </svg>
+            <div
+              class="StyledBox__StyledBoxGap-sc-13pk1d4-1 ilMzAg"
+            />
+            <a
+              class="StyledAnchor-sc-1rp7lwl-0 dSRcaq"
+              href="owner html_url"
+              target="_blank"
+            >
+              login
+            </a>
+            <div
+              class="StyledBox__StyledBoxGap-sc-13pk1d4-1 ilMzAg"
+            />
+            <span
+              class="StyledText-sc-1sadyjn-0 jbJJSg"
+            >
+              /
+            </span>
+            <div
+              class="StyledBox__StyledBoxGap-sc-13pk1d4-1 ilMzAg"
+            />
+            <a
+              class="StyledAnchor-sc-1rp7lwl-0 dSRcaq"
+              href="repo html_url"
+              target="_blank"
+            >
+              repo name
+            </a>
+          </div>
+          <div
+            class="StyledBox-sc-13pk1d4-0 byddCk"
+          >
+            <button
+              class="StyledButton-sc-323bzc-0 bXHvkf"
+              data-testid="bookmarkbutton"
+              title="githubrepo.btnAddToFavoriteToolTip"
+              type="button"
+            >
+              <svg
+                aria-label="Bookmark"
+                class="StyledIcon-sc-ofa7kd-0 iUTzQu"
+                viewBox="0 0 24 24"
+              >
+                <path
+                  d="M5 1v21l7-5 7 5V1z"
+                  fill="none"
+                  stroke="#000"
+                  stroke-width="2"
+                />
+              </svg>
+            </button>
+            <div
+              class="StyledBox__StyledBoxGap-sc-13pk1d4-1 drdMXk"
+            />
+            <div
+              class="StyledBox-sc-13pk1d4-0 dEmnTc"
+            >
+              <svg
+                aria-label="Star"
+                class="StyledIcon-sc-ofa7kd-0 jQvEgu"
+                viewBox="0 0 24 24"
+              >
+                <path
+                  d="M12 16.667 5 22l3-8-6-4.5h7.5L12 2l2.5 7.5H22L16 14l3 8z"
+                  fill="#FFC95E"
+                  fill-rule="evenodd"
+                />
+              </svg>
+              <div
+                class="StyledBox__StyledBoxGap-sc-13pk1d4-1 cuTpwc"
+              />
+              <span
+                class="StyledText-sc-1sadyjn-0 jbJJSg"
+              >
+                160
+              </span>
+            </div>
+          </div>
+        </div>
+      </header>
+      <div
+        class="StyledBox-sc-13pk1d4-0 jwyKWs"
+      >
+        <div
+          class="StyledBox-sc-13pk1d4-0 hUSFEE StyledTabs-sc-a4fwxl-2 uzbFk"
+          role="tablist"
+        >
+          <div
+            class="StyledBox-sc-13pk1d4-0 jKAhip"
+          >
+            <div
+              class="StyledBox-sc-13pk1d4-0 exoCoy StyledTabs__StyledTabsHeader-sc-a4fwxl-0 cUuna-D"
+            >
+              <button
+                aria-expanded="true"
+                aria-selected="true"
+                class="StyledButton-sc-323bzc-0 hIPuDF"
+                role="tab"
+                type="button"
+              >
+                <div
+                  class="StyledBox-sc-13pk1d4-0 jZDVC StyledTab-sc-1nnwnsb-0 jvjGeN"
+                >
+                  <span
+                    class="StyledText-sc-1sadyjn-0 bouNPv"
+                  >
+                    githubrepo.tabs.0.title
+                  </span>
+                </div>
+              </button>
+              <button
+                aria-expanded="false"
+                aria-selected="false"
+                class="StyledButton-sc-323bzc-0 hIPuDF"
+                role="tab"
+                type="button"
+              >
+                <div
+                  class="StyledBox-sc-13pk1d4-0 etEeAW StyledTab-sc-1nnwnsb-0 jvjGeN"
+                >
+                  <span
+                    class="StyledText-sc-1sadyjn-0 hnjXtp"
+                  >
+                    githubrepo.tabs.1.title (2)
+                  </span>
+                </div>
+              </button>
+            </div>
+          </div>
+          <div
+            aria-label="githubrepo.tabs.0.title Tab Contents"
+            class="StyledTabs__StyledTabPanel-sc-a4fwxl-1 fvSfiA"
+            role="tabpanel"
+          >
+            <div
+              class="StyledBox-sc-13pk1d4-0 jxnaYp"
+            >
+              <span
+                class="StyledText-sc-1sadyjn-0 jbJJSg"
+              >
+                test Description
+              </span>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`tests githubrepo card component tests render componen ==> fullsetTest no description 1`] = `
+<div>
+  <div
+    class="StyledGrommet-sc-19lkkz7-0 ioQEen"
+  >
+    <div
+      class="StyledBox-sc-13pk1d4-0 hECOWc"
+    >
+      <header
+        class="StyledBox-sc-13pk1d4-0 cUsmfa"
+      >
+        <div
+          class="StyledBox-sc-13pk1d4-0 hyJwyv"
+        >
+          <div
+            class="StyledBox-sc-13pk1d4-0 euWtCA"
+          >
+            <svg
+              aria-label="Book"
+              class="StyledIcon-sc-ofa7kd-0 jQvEgu"
+              viewBox="0 0 24 24"
+            >
+              <path
+                d="M10 1v10l3-2 3 2V1M5.5 18a2.5 2.5 0 1 0 0 5H22M3 20.5v-17A2.5 2.5 0 0 1 5.5 1H21v17.007H5.492M20.5 18a2.5 2.5 0 1 0 0 5"
+                fill="none"
+                stroke="#000"
+                stroke-width="2"
+              />
+            </svg>
+            <div
+              class="StyledBox__StyledBoxGap-sc-13pk1d4-1 ilMzAg"
+            />
+            <a
+              class="StyledAnchor-sc-1rp7lwl-0 dSRcaq"
+              href="owner html_url"
+              target="_blank"
+            >
+              login
+            </a>
+            <div
+              class="StyledBox__StyledBoxGap-sc-13pk1d4-1 ilMzAg"
+            />
+            <span
+              class="StyledText-sc-1sadyjn-0 jbJJSg"
+            >
+              /
+            </span>
+            <div
+              class="StyledBox__StyledBoxGap-sc-13pk1d4-1 ilMzAg"
+            />
+            <a
+              class="StyledAnchor-sc-1rp7lwl-0 dSRcaq"
+              href="repo html_url"
+              target="_blank"
+            >
+              repo name
+            </a>
+          </div>
+          <div
+            class="StyledBox-sc-13pk1d4-0 byddCk"
+          >
+            <button
+              class="StyledButton-sc-323bzc-0 bXHvkf"
+              data-testid="bookmarkbutton"
+              title="githubrepo.btnAddToFavoriteToolTip"
+              type="button"
+            >
+              <svg
+                aria-label="Bookmark"
+                class="StyledIcon-sc-ofa7kd-0 iUTzQu"
+                viewBox="0 0 24 24"
+              >
+                <path
+                  d="M5 1v21l7-5 7 5V1z"
+                  fill="none"
+                  stroke="#000"
+                  stroke-width="2"
+                />
+              </svg>
+            </button>
+            <div
+              class="StyledBox__StyledBoxGap-sc-13pk1d4-1 drdMXk"
+            />
+            <div
+              class="StyledBox-sc-13pk1d4-0 dEmnTc"
+            >
+              <svg
+                aria-label="Star"
+                class="StyledIcon-sc-ofa7kd-0 jQvEgu"
+                viewBox="0 0 24 24"
+              >
+                <path
+                  d="M12 16.667 5 22l3-8-6-4.5h7.5L12 2l2.5 7.5H22L16 14l3 8z"
+                  fill="#FFC95E"
+                  fill-rule="evenodd"
+                />
+              </svg>
+              <div
+                class="StyledBox__StyledBoxGap-sc-13pk1d4-1 cuTpwc"
+              />
+              <span
+                class="StyledText-sc-1sadyjn-0 jbJJSg"
+              >
+                160
+              </span>
+            </div>
+          </div>
+        </div>
+      </header>
+      <div
+        class="StyledBox-sc-13pk1d4-0 jwyKWs"
+      >
+        <div
+          class="StyledBox-sc-13pk1d4-0 hUSFEE StyledTabs-sc-a4fwxl-2 uzbFk"
+          role="tablist"
+        >
+          <div
+            class="StyledBox-sc-13pk1d4-0 jKAhip"
+          >
+            <div
+              class="StyledBox-sc-13pk1d4-0 exoCoy StyledTabs__StyledTabsHeader-sc-a4fwxl-0 cUuna-D"
+            >
+              <button
+                aria-expanded="true"
+                aria-selected="true"
+                class="StyledButton-sc-323bzc-0 hIPuDF"
+                role="tab"
+                type="button"
+              >
+                <div
+                  class="StyledBox-sc-13pk1d4-0 jZDVC StyledTab-sc-1nnwnsb-0 jvjGeN"
+                >
+                  <span
+                    class="StyledText-sc-1sadyjn-0 bouNPv"
+                  >
+                    githubrepo.tabs.0.title
+                  </span>
+                </div>
+              </button>
+              <button
+                aria-expanded="false"
+                aria-selected="false"
+                class="StyledButton-sc-323bzc-0 hIPuDF"
+                role="tab"
+                type="button"
+              >
+                <div
+                  class="StyledBox-sc-13pk1d4-0 etEeAW StyledTab-sc-1nnwnsb-0 jvjGeN"
+                >
+                  <span
+                    class="StyledText-sc-1sadyjn-0 hnjXtp"
+                  >
+                    githubrepo.tabs.1.title (2)
+                  </span>
+                </div>
+              </button>
+            </div>
+          </div>
+          <div
+            aria-label="githubrepo.tabs.0.title Tab Contents"
+            class="StyledTabs__StyledTabPanel-sc-a4fwxl-1 fvSfiA"
+            role="tabpanel"
+          >
+            <div
+              class="StyledBox-sc-13pk1d4-0 jxnaYp"
+            >
+              <span
+                class="StyledText-sc-1sadyjn-0 jbJJSg"
+              >
+                githubrepo.tabs.0.noDescription
+              </span>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`tests githubrepo card component tests render componen ==> fullsetTest not bookmarked 1`] = `
+<div>
+  <div
+    class="StyledGrommet-sc-19lkkz7-0 ioQEen"
+  >
+    <div
+      class="StyledBox-sc-13pk1d4-0 hECOWc"
+    >
+      <header
+        class="StyledBox-sc-13pk1d4-0 cUsmfa"
+      >
+        <div
+          class="StyledBox-sc-13pk1d4-0 hyJwyv"
+        >
+          <div
+            class="StyledBox-sc-13pk1d4-0 euWtCA"
+          >
+            <svg
+              aria-label="Book"
+              class="StyledIcon-sc-ofa7kd-0 jQvEgu"
+              viewBox="0 0 24 24"
+            >
+              <path
+                d="M10 1v10l3-2 3 2V1M5.5 18a2.5 2.5 0 1 0 0 5H22M3 20.5v-17A2.5 2.5 0 0 1 5.5 1H21v17.007H5.492M20.5 18a2.5 2.5 0 1 0 0 5"
+                fill="none"
+                stroke="#000"
+                stroke-width="2"
+              />
+            </svg>
+            <div
+              class="StyledBox__StyledBoxGap-sc-13pk1d4-1 ilMzAg"
+            />
+            <a
+              class="StyledAnchor-sc-1rp7lwl-0 dSRcaq"
+              href="owner html_url"
+              target="_blank"
+            >
+              login
+            </a>
+            <div
+              class="StyledBox__StyledBoxGap-sc-13pk1d4-1 ilMzAg"
+            />
+            <span
+              class="StyledText-sc-1sadyjn-0 jbJJSg"
+            >
+              /
+            </span>
+            <div
+              class="StyledBox__StyledBoxGap-sc-13pk1d4-1 ilMzAg"
+            />
+            <a
+              class="StyledAnchor-sc-1rp7lwl-0 dSRcaq"
+              href="repo html_url"
+              target="_blank"
+            >
+              repo name
+            </a>
+          </div>
+          <div
+            class="StyledBox-sc-13pk1d4-0 byddCk"
+          >
+            <button
+              class="StyledButton-sc-323bzc-0 bXHvkf"
+              data-testid="bookmarkbutton"
+              title="githubrepo.btnAddToFavoriteToolTip"
+              type="button"
+            >
+              <svg
+                aria-label="Bookmark"
+                class="StyledIcon-sc-ofa7kd-0 jQvEgu"
+                viewBox="0 0 24 24"
+              >
+                <path
+                  d="M5 1v21l7-5 7 5V1z"
+                  fill="none"
+                  stroke="#000"
+                  stroke-width="2"
+                />
+              </svg>
+            </button>
+            <div
+              class="StyledBox__StyledBoxGap-sc-13pk1d4-1 drdMXk"
+            />
+            <div
+              class="StyledBox-sc-13pk1d4-0 dEmnTc"
+            >
+              <svg
+                aria-label="Star"
+                class="StyledIcon-sc-ofa7kd-0 jQvEgu"
+                viewBox="0 0 24 24"
+              >
+                <path
+                  d="M12 16.667 5 22l3-8-6-4.5h7.5L12 2l2.5 7.5H22L16 14l3 8z"
+                  fill="#FFC95E"
+                  fill-rule="evenodd"
+                />
+              </svg>
+              <div
+                class="StyledBox__StyledBoxGap-sc-13pk1d4-1 cuTpwc"
+              />
+              <span
+                class="StyledText-sc-1sadyjn-0 jbJJSg"
+              >
+                160
+              </span>
+            </div>
+          </div>
+        </div>
+      </header>
+      <div
+        class="StyledBox-sc-13pk1d4-0 jwyKWs"
+      >
+        <div
+          class="StyledBox-sc-13pk1d4-0 hUSFEE StyledTabs-sc-a4fwxl-2 uzbFk"
+          role="tablist"
+        >
+          <div
+            class="StyledBox-sc-13pk1d4-0 jKAhip"
+          >
+            <div
+              class="StyledBox-sc-13pk1d4-0 exoCoy StyledTabs__StyledTabsHeader-sc-a4fwxl-0 cUuna-D"
+            >
+              <button
+                aria-expanded="true"
+                aria-selected="true"
+                class="StyledButton-sc-323bzc-0 hIPuDF"
+                role="tab"
+                type="button"
+              >
+                <div
+                  class="StyledBox-sc-13pk1d4-0 jZDVC StyledTab-sc-1nnwnsb-0 jvjGeN"
+                >
+                  <span
+                    class="StyledText-sc-1sadyjn-0 bouNPv"
+                  >
+                    githubrepo.tabs.0.title
+                  </span>
+                </div>
+              </button>
+              <button
+                aria-expanded="false"
+                aria-selected="false"
+                class="StyledButton-sc-323bzc-0 hIPuDF"
+                role="tab"
+                type="button"
+              >
+                <div
+                  class="StyledBox-sc-13pk1d4-0 etEeAW StyledTab-sc-1nnwnsb-0 jvjGeN"
+                >
+                  <span
+                    class="StyledText-sc-1sadyjn-0 hnjXtp"
+                  >
+                    githubrepo.tabs.1.title (2)
+                  </span>
+                </div>
+              </button>
+            </div>
+          </div>
+          <div
+            aria-label="githubrepo.tabs.0.title Tab Contents"
+            class="StyledTabs__StyledTabPanel-sc-a4fwxl-1 fvSfiA"
+            role="tabpanel"
+          >
+            <div
+              class="StyledBox-sc-13pk1d4-0 jxnaYp"
+            >
+              <span
+                class="StyledText-sc-1sadyjn-0 jbJJSg"
+              >
+                test Description
+              </span>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+`;
